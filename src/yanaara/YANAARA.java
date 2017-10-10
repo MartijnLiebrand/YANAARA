@@ -19,6 +19,7 @@ public class YANAARA extends JFrame {
     /**
      * @param args the command line arguments
      */
+    
     public static void main(String[] args) {
         YANAARA frame = new YANAARA();
         frame.setSize(600, 400);
